@@ -6,4 +6,7 @@ echo " hi helllo"
 
 echo "welcome"
 
+echo "master"
+
+
 timeout 5
