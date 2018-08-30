@@ -8,4 +8,6 @@ echo "welcome"
 
 echo"branch testing"
 
+echo "merge"
+
 timeout 5
